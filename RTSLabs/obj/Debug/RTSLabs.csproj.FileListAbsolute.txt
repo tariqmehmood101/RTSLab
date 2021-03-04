@@ -1,0 +1,7 @@
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\bin\Debug\RTSLabs.exe.config
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\bin\Debug\RTSLabs.exe
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\bin\Debug\RTSLabs.pdb
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\obj\Debug\RTSLabs.csprojAssemblyReference.cache
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\obj\Debug\RTSLabs.csproj.CoreCompileInputs.cache
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\obj\Debug\RTSLabs.exe
+C:\Users\rtm\source\repos\RTSLabs\RTSLabs\obj\Debug\RTSLabs.pdb
